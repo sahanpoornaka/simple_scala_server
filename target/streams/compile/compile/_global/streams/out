@@ -1,0 +1,7 @@
+[warn] /home/sahan/Workspaces/Simple_Scala_Server/Simple_Scala_Server/src/main/scala/controller/GetRequestHandler.scala:22:17: a pure expression does nothing in statement position; you may be omitting necessary parentheses
+[warn]       case _ => "Something else"
+[warn]                 ^
+[warn] /home/sahan/Workspaces/Simple_Scala_Server/Simple_Scala_Server/src/main/scala/controller/PostRequestHandler.scala:16:17: a pure expression does nothing in statement position; you may be omitting necessary parentheses
+[warn]       case _ => "Something else"
+[warn]                 ^
+[warn] two warnings found

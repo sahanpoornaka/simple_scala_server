@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd073f7-5ee0-4537-8f9a-17fd45bdba0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1azleMcm6ABo8Ee0M3Alon6ek8p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last.edited.regexp" value="/books/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runnable_task" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="run" />
+      <option name="useSbtShell" value="false" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Simple_Scala_Server" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="simple_scala_server [file:/home/sahan/Workspaces/Simple_Scala_Server/Simple_Scala_Server/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Simple_Scala_Server-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="189870685" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Projects/Location_Update_Project/location-update" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/Location_Update_SelfCare_Project/location-update" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../location-update-dev" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../location_update/location-update" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd073f7-5ee0-4537-8f9a-17fd45bdba0b" name="Default Changelist" comment="" />
+      <created>1587746397037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587746397037</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="215" width="800" height="678" key="#Project_Structure" timestamp="1587748998775">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="555" y="215" width="800" height="678" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1587748998775" />
+    <state x="693" y="312" width="524" height="485" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588116749750">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="693" y="312" width="524" height="485" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1588116749750" />
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587749091988">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1587749091988" />
+    <state x="768" y="254" width="374" height="600" key="#com.intellij.ide.util.MemberChooser" timestamp="1588101250666">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="768" y="254" width="374" height="600" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1588101250666" />
+    <state x="693" y="303" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588105444566">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="693" y="303" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1588105444566" />
+    <state width="1874" height="191" key="GridCell.Tab.0.bottom" timestamp="1588124618462">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="191" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1588124618462" />
+    <state width="1874" height="191" key="GridCell.Tab.0.center" timestamp="1588124618461">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="191" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1588124618461" />
+    <state width="1874" height="191" key="GridCell.Tab.0.left" timestamp="1588124618461">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="191" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1588124618461" />
+    <state width="1874" height="191" key="GridCell.Tab.0.right" timestamp="1588124618461">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="191" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1588124618461" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1587821482425">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1587821482425" />
+    <state x="623" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1587811146012">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="623" y="260" width="672" height="678" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1587811146012" />
+  </component>
+</project>
